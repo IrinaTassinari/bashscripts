@@ -1,5 +1,6 @@
 #!/bin/bash
-# this is comment from irina
+# this is comment from Irina
+# here is another comment from Irina
 USER="root"
 PASSWORD="PASS"
 HOST="HOST"
